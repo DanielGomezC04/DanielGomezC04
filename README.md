@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Gomez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img src="(https://i.pinimg.com/originals/3b/4c/00/3b4c0036b590cc1977d03230bb7d34f0.jpg)" alt="waos">
+
 
 **I think so much**
   

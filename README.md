@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Gomez</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Estudient from Colombia</h3>
 
-
+I study at the university Católica de Colombia
 **I think so much**
+I would like to learn how to program :)
   
 
 <h3 align="left">Connect with me:</h3>

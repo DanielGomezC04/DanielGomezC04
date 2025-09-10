@@ -7,9 +7,9 @@
   
 
 <h3 align="left">Connect with me:</h3>
-InstA: Danhi444</a>
-href="https://www.instagram.com/danhi444?igsh=MWwzN3M0MGs4czBzcw== "</a>
-Gmail: dfgomezcordoba@gmail.com
+- InstA: Danhi444
+- https://www.instagram.com/danhi444?igsh=MWwzN3M0MGs4czBzcw=="
+- Gmail: dfgomezcordoba@gmail.com
 
 <p align="left">
 </p>

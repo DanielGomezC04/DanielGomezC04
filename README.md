@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniel Gomez</h1>
 <h3 align="center">A passionate Estudient from Colombia</h3>
 
-I study at the university Católica de Colombia- 
-**I think so much** -
+- I study at the university Católica de Colombia- 
+- **I think so much**
 - I would like to learn how to program :)
   
 
 <h3 align="left">Connect with me:</h3>
-InstA: Danhi444
+InstA: Danhi444</a>
+href="https://www.instagram.com/danhi444?igsh=MWwzN3M0MGs4czBzcw== "</a>
+Gmail: dfgomezcordoba@gmail.com
+
 <p align="left">
 </p>
 
